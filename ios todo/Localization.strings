@@ -1,0 +1,18 @@
+/* 
+  Localization.strings
+  ios todo
+
+  Created by Likhith P.s. on 2019-12-09.
+  Copyright © 2019 dinesh. All rights reserved.
+*/
+"To Do List" = "To Do List";
+"Enter your List Item" = "Enter your List Item"
+"Completion Date" = "Completion Date"
+"Save Button" = "Save Button";
+
+"play volleyball" = "play volleyball";
+"09th dec" =  "09th dec";
+"call friends" = "call friends"
+"02nd dec" = "02nd dec";
+"gym" = "gym";
+"05th dec" = "05th dec";
